@@ -1,1 +1,20 @@
-# helloworld
+# HelloWorld
+
+# Overview
+
+This software is a simple java program that prints "hello world" to the console, a software that just demonstrates the setting up of a java program and explaining it in a presentation.
+
+
+[Hello World Demo Video](http://youtube.link.goes.here)
+
+# Development Environment
+
+Firstly, I ensured that Java is installed on my laptop, JDK 17 but you can used openJDK 17 as well. I build an organised code structure in Java style and then place the code in a package while for running the application i used a compile package in the dist folder. Bash shell is used in compiling and running the program.
+
+I used Java and Bash Shell (for running compilation and running the code)
+
+# Useful Websites
+
+* W3schools Bash https://www.w3schools.com/bash/index.php
+* W3schools - Java https://www.w3schools.com/java/default.asp
+* FreeCodeCamp - Compile & Run Java Code https://www.freecodecamp.org/news/how-to-execute-and-run-java-code/
